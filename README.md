@@ -1,2 +1,2 @@
 # wnp-reolusi
-Respository unutk menyimpan rencana WNP kedepanya
+Respository untuk menyimpan rencana WNP kedepanya
